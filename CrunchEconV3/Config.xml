@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UseDefaultSetup>false</UseDefaultSetup>
+  <StoragePath>default</StoragePath>
+  <SetMinPricesTo1>false</SetMinPricesTo1>
+  <RemoveKeenContractsOnStations>true</RemoveKeenContractsOnStations>
+  <OverrideKeenStores>true</OverrideKeenStores>
+  <GravityPriceModifier>1</GravityPriceModifier>
+  <DebugMode>false</DebugMode>
+  <KeenNPCContracts>
+    <KeenNPCEntry>
+      <NPCFactionTags>
+        <string>SPRT</string>
+        <string>BERTI</string>
+        <string>FORGE</string>
+        <string>UNITE</string>
+      </NPCFactionTags>
+      <ContractFiles>
+        <string>/Stations/Example/Contracts.json</string>
+      </ContractFiles>
+    </KeenNPCEntry>
+  </KeenNPCContracts>
+  <KeenNPCSecondsBetweenRefresh>300</KeenNPCSecondsBetweenRefresh>
+  <KeenNPCStoresOverrides />
+</Config>

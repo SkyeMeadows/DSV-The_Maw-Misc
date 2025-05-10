@@ -1,0 +1,106 @@
+{
+  "SellHydrogen": false,
+  "SellOxygn": false,
+  "SellingToPlayers": [
+    {
+      "ChanceToAppear": 0.836542547,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "Welder3Item",
+      "AmountMin": 5,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.558011532,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "Welder4Item",
+      "AmountMin": 1,
+      "AmountMax": 3
+    },
+    {
+      "ChanceToAppear": 0.437267572,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Powerkit",
+      "AmountMin": 5,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.7886051,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "CosmicCoffee",
+      "AmountMin": 1000,
+      "AmountMax": 10000
+    }
+  ],
+  "BuyingFromPlayers": [
+    {
+      "ChanceToAppear": 0.8937158,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Construction",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.7985127,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "InteriorPlate",
+      "AmountMin": 500,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.883043051,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SteelPlate",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8650895,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "LargeTube",
+      "AmountMin": 80,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.6673331,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "BulletproofGlass",
+      "AmountMin": 200,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8949644,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Computer",
+      "AmountMin": 300,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.802613854,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "GravityGenerator",
+      "AmountMin": 5,
+      "AmountMax": 40
+    },
+    {
+      "ChanceToAppear": 0.6538986,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Detector",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.943991363,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SolarCell",
+      "AmountMin": 30,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.5310704,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "PowerCell",
+      "AmountMin": 50,
+      "AmountMax": 100
+    }
+  ]
+}

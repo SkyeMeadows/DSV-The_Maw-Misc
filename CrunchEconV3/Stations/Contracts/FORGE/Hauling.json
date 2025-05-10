@@ -1,0 +1,47 @@
+[
+  {
+    "$type": "CrunchEconContractModels.Contracts.ItemHaulingContractConfig, MyAssembly",
+    "CargoNames": [],
+    "AmountOfContractsToGenerate": 1,
+    "ContractName": "Item Hauling",
+    "ChanceToAppear": 1,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": [
+		"GPS:Station:440213.217357042:283218.537098829:280656.765040161:#FFFFA500:"
+	],
+    "BonusPerKMDistance": 1,
+    "SecondsToComplete": 1800,
+    "ReputationRequired": 0,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 3,
+    "ItemsAvailable": [
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "GravityGenerator",
+        "AmountMin": 200,
+        "AmountMax": 1000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Thrust",
+        "AmountMin": 5000,
+        "AmountMax": 10000
+      },
+	  {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Superconductor",
+        "AmountMin": 1000,
+        "AmountMax": 5000
+      },
+	  {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Reactor",
+        "AmountMin": 10000,
+        "AmountMax": 25000
+      }
+    ],
+    "PlaceItemsInTargetStation": false
+  },
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "$type": "CrunchEconContractModels.Contracts.ItemHaulingContractConfig, MyAssembly",
+    "CargoNames": [],
+    "AmountOfContractsToGenerate": 2,
+    "ContractName": "Item Acquisition",
+    "ChanceToAppear": 1,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": ["GPS:Station:440226.703040907:282848.691482936:280583.447362252:#FFFFA500:"],
+    "BonusPerKMDistance": 0,
+    "SecondsToComplete": 1200,
+    "ReputationRequired": 0,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 3,
+    "ItemsAvailable": [
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "GravityGenerator",
+        "AmountMin": 200,
+        "AmountMax": 1000,
+		"PricePerItemMin": 337,
+        "PricePerItemMax": 342
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Thrust",
+        "AmountMin": 5000,
+        "AmountMax": 10000,
+		"PricePerItemMin": 165,
+        "PricePerItemMax": 170
+      },
+	  {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Superconductor",
+        "AmountMin": 1000,
+        "AmountMax": 5000,
+		"PricePerItemMin": 253,
+        "PricePerItemMax": 258
+      },
+	  {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Reactor",
+        "AmountMin": 10000,
+        "AmountMax": 25000,
+		"PricePerItemMin": 77,
+        "PricePerItemMax": 82
+      }
+    ],
+    "PlaceItemsInTargetStation": false
+  },
+]

@@ -1,0 +1,274 @@
+{
+  "SellHydrogen": false,
+  "SellOxygn": false,
+  "SellingToPlayers": [
+    {
+      "ChanceToAppear": 0.3946948,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "AutomaticRifleItem",
+      "AmountMin": 1,
+      "AmountMax": 20
+    },
+    {
+      "ChanceToAppear": 0.820356,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "PreciseAutomaticRifleItem",
+      "AmountMin": 1,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.978730559,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "RapidFireAutomaticRifleItem",
+      "AmountMin": 1,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.853063762,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "WelderItem",
+      "AmountMin": 10,
+      "AmountMax": 20
+    },
+    {
+      "ChanceToAppear": 0.4608672,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "Welder2Item",
+      "AmountMin": 5,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.6311463,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "Welder4Item",
+      "AmountMin": 1,
+      "AmountMax": 3
+    },
+    {
+      "ChanceToAppear": 0.9148316,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "HandDrill2Item",
+      "AmountMin": 5,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.312862545,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "HandDrill3Item",
+      "AmountMin": 5,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.845194459,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Construction",
+      "AmountMin": 1000,
+      "AmountMax": 5000
+    },
+    {
+      "ChanceToAppear": 0.4307583,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "MetalGrid",
+      "AmountMin": 250,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.420442343,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "InteriorPlate",
+      "AmountMin": 1000,
+      "AmountMax": 5000
+    },
+    {
+      "ChanceToAppear": 0.8971139,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Girder",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8975184,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Motor",
+      "AmountMin": 1000,
+      "AmountMax": 2000
+    },
+    {
+      "ChanceToAppear": 0.72860384,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Computer",
+      "AmountMin": 1000,
+      "AmountMax": 5000
+    },
+    {
+      "ChanceToAppear": 0.373321652,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Reactor",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.5668028,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "RadioCommunication",
+      "AmountMin": 30,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.8883086,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Detector",
+      "AmountMin": 30,
+      "AmountMax": 60
+    },
+    {
+      "ChanceToAppear": 0.391724825,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SolarCell",
+      "AmountMin": 30,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.3818323,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "PowerCell",
+      "AmountMin": 100,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.892528832,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Canvas",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.9604188,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Medical",
+      "AmountMin": 100,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.5582972,
+      "Type": "MyObjectBuilder_Datapad",
+      "Subtype": "Datapad",
+      "AmountMin": 5,
+      "AmountMax": 20
+    },
+    {
+      "ChanceToAppear": 0.3404249,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "NATO_5p56x45mm",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.734032333,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "Missile200mm",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.966475248,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Medkit",
+      "AmountMin": 5,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.715522945,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Tech2x",
+      "AmountMin": 10,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.5747186,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Tech4x",
+      "AmountMin": 0,
+      "AmountMax": 0
+    }
+  ],
+  "BuyingFromPlayers": [
+    {
+      "ChanceToAppear": 0.749341846,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Gold",
+      "AmountMin": 30,
+      "AmountMax": 3000
+    },
+    {
+      "ChanceToAppear": 0.89798373,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Platinum",
+      "AmountMin": 10,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.808189332,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Uranium",
+      "AmountMin": 10,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8145769,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Superconductor",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.888112664,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Reactor",
+      "AmountMin": 100,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.7426846,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "GravityGenerator",
+      "AmountMin": 5,
+      "AmountMax": 40
+    },
+    {
+      "ChanceToAppear": 0.582937837,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "RadioCommunication",
+      "AmountMin": 40,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.681815863,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Detector",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.364742041,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "PowerCell",
+      "AmountMin": 50,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.659713864,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Tech2x",
+      "AmountMin": 10,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.900327563,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Tech8x",
+      "AmountMin": 0,
+      "AmountMax": 0
+    }
+  ]
+}

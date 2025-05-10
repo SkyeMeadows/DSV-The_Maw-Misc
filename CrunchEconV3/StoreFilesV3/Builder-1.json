@@ -1,0 +1,106 @@
+{
+  "SellHydrogen": false,
+  "SellOxygn": false,
+  "SellingToPlayers": [
+    {
+      "ChanceToAppear": 0.538409352,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Medkit",
+      "AmountMin": 5,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.3832462,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Powerkit",
+      "AmountMin": 5,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.421390355,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "ClangCola",
+      "AmountMin": 1000,
+      "AmountMax": 10000
+    },
+    {
+      "ChanceToAppear": 0.9825217,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "CosmicCoffee",
+      "AmountMin": 1000,
+      "AmountMax": 10000
+    }
+  ],
+  "BuyingFromPlayers": [
+    {
+      "ChanceToAppear": 0.476601183,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Construction",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8867123,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "InteriorPlate",
+      "AmountMin": 500,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.809521854,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SteelPlate",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.9807758,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "LargeTube",
+      "AmountMin": 80,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.315726578,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Display",
+      "AmountMin": 20,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.6662414,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "GravityGenerator",
+      "AmountMin": 5,
+      "AmountMax": 40
+    },
+    {
+      "ChanceToAppear": 0.91049,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "RadioCommunication",
+      "AmountMin": 40,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.7929912,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Detector",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.5973651,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Explosives",
+      "AmountMin": 6,
+      "AmountMax": 18
+    },
+    {
+      "ChanceToAppear": 0.9777499,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SolarCell",
+      "AmountMin": 30,
+      "AmountMax": 100
+    }
+  ]
+}

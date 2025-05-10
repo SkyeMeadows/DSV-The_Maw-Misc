@@ -1,0 +1,169 @@
+{
+  "SellHydrogen": false,
+  "SellOxygn": false,
+  "SellingToPlayers": [
+    {
+      "ChanceToAppear": 0.9562039,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AutocannonClip",
+      "AmountMin": 30,
+      "AmountMax": 300
+    },
+    {
+      "ChanceToAppear": 0.953846157,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "MediumCalibreAmmo",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8022712,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "SmallRailgunAmmo",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.694623053,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Explosives",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.7292501,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "ZoneChip",
+      "AmountMin": 10,
+      "AmountMax": 48
+    },
+    {
+      "ChanceToAppear": 0.9502253,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "ElitePistolItem",
+      "AmountMin": 1,
+      "AmountMax": 3
+    },
+    {
+      "ChanceToAppear": 0.8823332,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "PreciseAutomaticRifleItem",
+      "AmountMin": 1,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.8562073,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "PreciseAutomaticRifleGun_Mag_5rd",
+      "AmountMin": 10,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.8366777,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "Missile200mm",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.510063231,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "AngleGrinder4Item",
+      "AmountMin": 1,
+      "AmountMax": 3
+    },
+    {
+      "ChanceToAppear": 0.8142917,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Medkit",
+      "AmountMin": 5,
+      "AmountMax": 50
+    }
+  ],
+  "BuyingFromPlayers": [
+    {
+      "ChanceToAppear": 0.865763366,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SteelPlate",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.421489984,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Girder",
+      "AmountMin": 40,
+      "AmountMax": 400
+    },
+    {
+      "ChanceToAppear": 0.985580862,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SmallTube",
+      "AmountMin": 60,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.5192455,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Display",
+      "AmountMin": 20,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.858649433,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "BulletproofGlass",
+      "AmountMin": 200,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.715962052,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Superconductor",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.8102216,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Computer",
+      "AmountMin": 300,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8537156,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Thrust",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.985865057,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "RadioCommunication",
+      "AmountMin": 40,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.984584749,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SolarCell",
+      "AmountMin": 30,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.4777332,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Uranium",
+      "AmountMin": 10,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8971584,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "PrototechScrap",
+      "AmountMin": 10,
+      "AmountMax": 50
+    }
+  ]
+}

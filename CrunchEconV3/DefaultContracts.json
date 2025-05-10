@@ -1,0 +1,233 @@
+[
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 10000,
+    "AmountToMineThenDeliverMax": 15000,
+    "OresToPickFrom": [
+      "Iron",
+      "Nickel",
+      "Silicon",
+      "Ice"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 5,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 5,
+    "ReputationGainOnCompleteMax": 10,
+    "ReputationLossOnAbandon": 15,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.5,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 100000,
+    "AmountToMineThenDeliverMax": 150000,
+    "OresToPickFrom": [
+      "Ice"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 5,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 5,
+    "ReputationGainOnCompleteMax": 10,
+    "ReputationLossOnAbandon": 15,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.05,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 25000,
+    "AmountToMineThenDeliverMax": 30000,
+    "OresToPickFrom": [
+      "Iron",
+      "Nickel",
+      "Silicon",
+      "Ice"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 2,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 5,
+    "ReputationGainOnCompleteMax": 10,
+    "ReputationLossOnAbandon": 15,
+    "ReputationRequired": 1000,
+    "ChanceToAppear": 0.3,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 1000,
+    "AmountToMineThenDeliverMax": 1500,
+    "OresToPickFrom": [
+      "Silver",
+      "Gold",
+      "Cobalt",
+      "Magnesium"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 5,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 3,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 20,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.5,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 10000,
+    "AmountToMineThenDeliverMax": 15000,
+    "OresToPickFrom": [
+      "Silver",
+      "Gold",
+      "Cobalt",
+      "Magnesium"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 3,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 5,
+    "ReputationGainOnCompleteMax": 10,
+    "ReputationLossOnAbandon": 20,
+    "ReputationRequired": 250,
+    "ChanceToAppear": 0.3,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 10000,
+    "AmountToMineThenDeliverMax": 15000,
+    "OresToPickFrom": [
+      "Uranium",
+      "Platinum"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 3,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 10,
+    "ReputationGainOnCompleteMax": 15,
+    "ReputationLossOnAbandon": 30,
+    "ReputationRequired": 750,
+    "ChanceToAppear": 0.3,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.GasContractConfig, CrunchEconV3",
+    "GasSubType": "Hydrogen",
+    "AmountInLitresMin": 1000000,
+    "AmountInLitresMax": 2000000,
+    "AmountOfContractsToGenerate": 3,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.7,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.GasContractConfig, CrunchEconV3",
+    "GasSubType": "Oxygen",
+    "AmountInLitresMin": 1000000,
+    "AmountInLitresMax": 2000000,
+    "AmountOfContractsToGenerate": 3,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.7,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.ItemHaulingConfig, CrunchEconV3",
+    "CargoNames": [],
+    "ContractName": "Item Delivery",
+    "ItemsAvailable": [
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Girder",
+        "AmountMin": 1000,
+        "AmountMax": 10000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Construction",
+        "AmountMin": 1000,
+        "AmountMax": 10000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "MetalGrid",
+        "AmountMin": 100,
+        "AmountMax": 500
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "InteriorPlate",
+        "AmountMin": 1000,
+        "AmountMax": 10000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "SteelPlate",
+        "AmountMin": 1000,
+        "AmountMax": 10000
+      }
+    ],
+    "PlaceItemsInTargetStation": false,
+    "AmountOfContractsToGenerate": 5,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.7,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.ItemHaulingConfig, CrunchEconV3",
+    "CargoNames": [],
+    "ContractName": "Item Delivery",
+    "ItemsAvailable": [
+      {
+        "TypeId": "MyObjectBuilder_Ore",
+        "SubTypeId": "Ice",
+        "AmountMin": 3000,
+        "AmountMax": 10000
+      }
+    ],
+    "PlaceItemsInTargetStation": false,
+    "AmountOfContractsToGenerate": 2,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.25,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  }
+]

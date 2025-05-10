@@ -1,0 +1,148 @@
+{
+  "SellHydrogen": false,
+  "SellOxygn": false,
+  "SellingToPlayers": [
+    {
+      "ChanceToAppear": 0.716575265,
+      "Type": "MyObjectBuilder_Ore",
+      "Subtype": "Nickel",
+      "AmountMin": 1000,
+      "AmountMax": 10000
+    },
+    {
+      "ChanceToAppear": 0.4022548,
+      "Type": "MyObjectBuilder_Ore",
+      "Subtype": "Magnesium",
+      "AmountMin": 1000,
+      "AmountMax": 9000
+    },
+    {
+      "ChanceToAppear": 0.5076199,
+      "Type": "MyObjectBuilder_Ore",
+      "Subtype": "Silver",
+      "AmountMin": 1500,
+      "AmountMax": 15000
+    },
+    {
+      "ChanceToAppear": 0.44073087,
+      "Type": "MyObjectBuilder_Ore",
+      "Subtype": "Uranium",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.752117455,
+      "Type": "MyObjectBuilder_Datapad",
+      "Subtype": "Datapad",
+      "AmountMin": 5,
+      "AmountMax": 20
+    },
+    {
+      "ChanceToAppear": 0.9093317,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Iron",
+      "AmountMin": 1000,
+      "AmountMax": 10000
+    },
+    {
+      "ChanceToAppear": 0.84009546,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Nickel",
+      "AmountMin": 1000,
+      "AmountMax": 10000
+    },
+    {
+      "ChanceToAppear": 0.519279242,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Silicon",
+      "AmountMin": 1000,
+      "AmountMax": 10000
+    },
+    {
+      "ChanceToAppear": 0.9168835,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Cobalt",
+      "AmountMin": 300,
+      "AmountMax": 3000
+    },
+    {
+      "ChanceToAppear": 0.6689262,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "HandDrill3Item",
+      "AmountMin": 5,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.789607,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Powerkit",
+      "AmountMin": 5,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.536239147,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "ClangCola",
+      "AmountMin": 1000,
+      "AmountMax": 10000
+    }
+  ],
+  "BuyingFromPlayers": [
+    {
+      "ChanceToAppear": 0.7820823,
+      "Type": "MyObjectBuilder_Ore",
+      "Subtype": "Cobalt",
+      "AmountMin": 1000,
+      "AmountMax": 9000
+    },
+    {
+      "ChanceToAppear": 0.306499034,
+      "Type": "MyObjectBuilder_Ore",
+      "Subtype": "Magnesium",
+      "AmountMin": 1000,
+      "AmountMax": 9000
+    },
+    {
+      "ChanceToAppear": 0.9731012,
+      "Type": "MyObjectBuilder_Ore",
+      "Subtype": "Silver",
+      "AmountMin": 1500,
+      "AmountMax": 15000
+    },
+    {
+      "ChanceToAppear": 0.8788704,
+      "Type": "MyObjectBuilder_Ore",
+      "Subtype": "Gold",
+      "AmountMin": 1500,
+      "AmountMax": 15000
+    },
+    {
+      "ChanceToAppear": 0.8150512,
+      "Type": "MyObjectBuilder_Ore",
+      "Subtype": "Platinum",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.693066239,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Detector",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.854129136,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Motor",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.5137855,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "LargeTube",
+      "AmountMin": 80,
+      "AmountMax": 500
+    }
+  ]
+}

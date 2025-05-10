@@ -1,0 +1,33 @@
+{
+  "UsesDefault": false,
+  "UsedTemplate": null,
+  "SubstationGpsStrings": [],
+  "Logics": [
+    {
+      "$type": "CrunchEconV3.PlugAndPlayV2.StationLogics.StoreLogic, CrunchEconV3",
+      "StoreFileName": "FORGE-Cargo_Station.json",
+      "IsFirstRun": false,
+      "NextModifierReset": "2025-05-10T18:09:37.6360164-04:00",
+      "NextStoreRefresh": "2025-05-08T18:23:29.4327804-04:00",
+      "NextInventoryRefresh": "0001-01-01T00:00:00",
+      "Modifier": -0.012394537805763328,
+      "MaximumModifier": 0.15,
+      "Priority": 0,
+      "DaysBetweenModifierResets": 7,
+      "MaintainBalance": true,
+      "SecondsBetweenRefresh": 300
+    }
+  ],
+  "Enabled": true,
+  "LocationGPS": "GPS:Station:409004.50715836:253610.159627211:589159.742701889:#FFFFA500:",
+  "FactionTag": "FORGE",
+  "SecondsBetweenContractRefresh": 0,
+  "ContractFiles": [
+    "/Contracts/FORGE/Delivery.json"
+  ],
+  "FileName": "FORGE-TEST.json",
+  "UseAsDeliveryLocation": true,
+  "StorePriceModifier": 1.0,
+  "StoreQuantityModifier": 1.0,
+  "ContractPriceModifier": 1.0
+}

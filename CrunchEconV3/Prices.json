@@ -1,0 +1,1865 @@
+{
+  "MyObjectBuilder_GasProperties/Oxygen": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_GasProperties/Oxygen",
+    "MinPrice": 1,
+    "ContractPrice": 1.0
+  },
+  "MyObjectBuilder_GasProperties/Hydrogen": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_GasProperties/Hydrogen",
+    "MinPrice": 2,
+    "ContractPrice": 2.0
+  },
+  "MyObjectBuilder_AmmoMagazine/SemiAutoPistolMagazine": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/SemiAutoPistolMagazine",
+    "MinPrice": 115,
+    "ContractPrice": 115.0
+  },
+  "MyObjectBuilder_AmmoMagazine/FullAutoPistolMagazine": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/FullAutoPistolMagazine",
+    "MinPrice": 13645,
+    "ContractPrice": 13645.0
+  },
+  "MyObjectBuilder_AmmoMagazine/ElitePistolMagazine": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/ElitePistolMagazine",
+    "MinPrice": 13153,
+    "ContractPrice": 13153.0
+  },
+  "MyObjectBuilder_AmmoMagazine/FlareClip": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/FlareClip",
+    "MinPrice": 99,
+    "ContractPrice": 99.0
+  },
+  "MyObjectBuilder_AmmoMagazine/FireworksBoxBlue": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/FireworksBoxBlue",
+    "MinPrice": 70510,
+    "ContractPrice": 70510.0
+  },
+  "MyObjectBuilder_AmmoMagazine/FireworksBoxGreen": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/FireworksBoxGreen",
+    "MinPrice": 70510,
+    "ContractPrice": 70510.0
+  },
+  "MyObjectBuilder_AmmoMagazine/FireworksBoxRed": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/FireworksBoxRed",
+    "MinPrice": 70510,
+    "ContractPrice": 70510.0
+  },
+  "MyObjectBuilder_AmmoMagazine/FireworksBoxPink": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/FireworksBoxPink",
+    "MinPrice": 70510,
+    "ContractPrice": 70510.0
+  },
+  "MyObjectBuilder_AmmoMagazine/FireworksBoxYellow": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/FireworksBoxYellow",
+    "MinPrice": 70510,
+    "ContractPrice": 70510.0
+  },
+  "MyObjectBuilder_AmmoMagazine/FireworksBoxRainbow": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/FireworksBoxRainbow",
+    "MinPrice": 70510,
+    "ContractPrice": 70510.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AutomaticRifleGun_Mag_20rd": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AutomaticRifleGun_Mag_20rd",
+    "MinPrice": 22406,
+    "ContractPrice": 22406.0
+  },
+  "MyObjectBuilder_AmmoMagazine/RapidFireAutomaticRifleGun_Mag_50rd": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/RapidFireAutomaticRifleGun_Mag_50rd",
+    "MinPrice": 59671,
+    "ContractPrice": 59671.0
+  },
+  "MyObjectBuilder_AmmoMagazine/PreciseAutomaticRifleGun_Mag_5rd": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/PreciseAutomaticRifleGun_Mag_5rd",
+    "MinPrice": 22406,
+    "ContractPrice": 22406.0
+  },
+  "MyObjectBuilder_AmmoMagazine/UltimateAutomaticRifleGun_Mag_30rd": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/UltimateAutomaticRifleGun_Mag_30rd",
+    "MinPrice": 37360,
+    "ContractPrice": 37360.0
+  },
+  "MyObjectBuilder_AmmoMagazine/NATO_5p56x45mm": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/NATO_5p56x45mm",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AutocannonClip": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AutocannonClip",
+    "MinPrice": 278977,
+    "ContractPrice": 278977.0
+  },
+  "MyObjectBuilder_AmmoMagazine/NATO_25x184mm": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/NATO_25x184mm",
+    "MinPrice": 458131,
+    "ContractPrice": 458131.0
+  },
+  "MyObjectBuilder_AmmoMagazine/Missile200mm": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/Missile200mm",
+    "MinPrice": 243126,
+    "ContractPrice": 243126.0
+  },
+  "MyObjectBuilder_AmmoMagazine/LargeCalibreAmmo": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/LargeCalibreAmmo",
+    "MinPrice": 830772,
+    "ContractPrice": 830772.0
+  },
+  "MyObjectBuilder_AmmoMagazine/MediumCalibreAmmo": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/MediumCalibreAmmo",
+    "MinPrice": 156164,
+    "ContractPrice": 156164.0
+  },
+  "MyObjectBuilder_AmmoMagazine/LargeRailgunAmmo": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/LargeRailgunAmmo",
+    "MinPrice": 291789,
+    "ContractPrice": 291789.0
+  },
+  "MyObjectBuilder_AmmoMagazine/SmallRailgunAmmo": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/SmallRailgunAmmo",
+    "MinPrice": 52509,
+    "ContractPrice": 52509.0
+  },
+  "MyObjectBuilder_Component/Construction": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Construction",
+    "MinPrice": 2048,
+    "ContractPrice": 2048.0
+  },
+  "MyObjectBuilder_Component/MetalGrid": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/MetalGrid",
+    "MinPrice": 18070,
+    "ContractPrice": 18070.0
+  },
+  "MyObjectBuilder_Component/InteriorPlate": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/InteriorPlate",
+    "MinPrice": 4,
+    "ContractPrice": 768.0
+  },
+  "MyObjectBuilder_Component/SteelPlate": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/SteelPlate",
+    "MinPrice": 21,
+    "ContractPrice": 5377.0
+  },
+  "MyObjectBuilder_Component/Girder": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Girder",
+    "MinPrice": 7,
+    "ContractPrice": 1536.0
+  },
+  "MyObjectBuilder_Component/SmallTube": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/SmallTube",
+    "MinPrice": 5,
+    "ContractPrice": 1280.0
+  },
+  "MyObjectBuilder_Component/LargeTube": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/LargeTube",
+    "MinPrice": 30,
+    "ContractPrice": 8525.0
+  },
+  "MyObjectBuilder_Component/Motor": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Motor",
+    "MinPrice": 50,
+    "ContractPrice": 10051.0
+  },
+  "MyObjectBuilder_Component/Display": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Display",
+    "MinPrice": 11,
+    "ContractPrice": 2139.0
+  },
+  "MyObjectBuilder_Component/BulletproofGlass": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/BulletproofGlass",
+    "MinPrice": 30,
+    "ContractPrice": 5650.0
+  },
+  "MyObjectBuilder_Component/Superconductor": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Superconductor",
+    "MinPrice": 256,
+    "ContractPrice": 143221.0
+  },
+  "MyObjectBuilder_Component/Computer": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Computer",
+    "MinPrice": 1,
+    "ContractPrice": 203.0
+  },
+  "MyObjectBuilder_Component/Reactor": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Reactor",
+    "MinPrice": 80,
+    "ContractPrice": 45882.0
+  },
+  "MyObjectBuilder_Component/Thrust": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Thrust",
+    "MinPrice": 168,
+    "ContractPrice": 243951.0
+  },
+  "MyObjectBuilder_Component/GravityGenerator": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/GravityGenerator",
+    "MinPrice": 340,
+    "ContractPrice": 2048870.0
+  },
+  "MyObjectBuilder_Component/Medical": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Medical",
+    "MinPrice": 660,
+    "ContractPrice": 235606.0
+  },
+  "MyObjectBuilder_Component/RadioCommunication": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/RadioCommunication",
+    "MinPrice": 10,
+    "ContractPrice": 3026.0
+  },
+  "MyObjectBuilder_Component/Detector": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Detector",
+    "MinPrice": 95,
+    "ContractPrice": 14112.0
+  },
+  "MyObjectBuilder_Component/Explosives": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Explosives",
+    "MinPrice": 70,
+    "ContractPrice": 267971.0
+  },
+  "MyObjectBuilder_Component/SolarCell": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/SolarCell",
+    "MinPrice": 76,
+    "ContractPrice": 4733.0
+  },
+  "MyObjectBuilder_Component/PowerCell": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/PowerCell",
+    "MinPrice": 96,
+    "ContractPrice": 5334.0
+  },
+  "MyObjectBuilder_Component/Canvas": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Canvas",
+    "MinPrice": 29,
+    "ContractPrice": 17094.0
+  },
+  "MyObjectBuilder_Component/EngineerPlushie": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/EngineerPlushie",
+    "MinPrice": 30000,
+    "ContractPrice": 30000.0
+  },
+  "MyObjectBuilder_Component/SabiroidPlushie": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/SabiroidPlushie",
+    "MinPrice": 30000,
+    "ContractPrice": 30000.0
+  },
+  "MyObjectBuilder_Component/PrototechFrame": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/PrototechFrame",
+    "MinPrice": 100000,
+    "ContractPrice": 100000.0
+  },
+  "MyObjectBuilder_Component/PrototechPanel": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/PrototechPanel",
+    "MinPrice": 528353,
+    "ContractPrice": 528353.0
+  },
+  "MyObjectBuilder_Component/PrototechCapacitor": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/PrototechCapacitor",
+    "MinPrice": 577213,
+    "ContractPrice": 577213.0
+  },
+  "MyObjectBuilder_Component/PrototechPropulsionUnit": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/PrototechPropulsionUnit",
+    "MinPrice": 1885589,
+    "ContractPrice": 1885589.0
+  },
+  "MyObjectBuilder_Component/PrototechMachinery": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/PrototechMachinery",
+    "MinPrice": 310997,
+    "ContractPrice": 310997.0
+  },
+  "MyObjectBuilder_Component/PrototechCircuitry": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/PrototechCircuitry",
+    "MinPrice": 820031,
+    "ContractPrice": 820031.0
+  },
+  "MyObjectBuilder_Component/PrototechCoolingUnit": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/PrototechCoolingUnit",
+    "MinPrice": 2222705,
+    "ContractPrice": 2222705.0
+  },
+  "MyObjectBuilder_Component/ZoneChip": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/ZoneChip",
+    "MinPrice": 100000,
+    "ContractPrice": 100000.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/GoodAIRewardPunishmentTool": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/GoodAIRewardPunishmentTool",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ore/Stone": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Stone",
+    "MinPrice": 1,
+    "ContractPrice": 10.0
+  },
+  "MyObjectBuilder_Ore/Iron": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Iron",
+    "MinPrice": 2,
+    "ContractPrice": 100.0
+  },
+  "MyObjectBuilder_Ore/Nickel": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Nickel",
+    "MinPrice": 3,
+    "ContractPrice": 100.0
+  },
+  "MyObjectBuilder_Ore/Cobalt": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Cobalt",
+    "MinPrice": 4,
+    "ContractPrice": 300.0
+  },
+  "MyObjectBuilder_Ore/Magnesium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Magnesium",
+    "MinPrice": 10,
+    "ContractPrice": 200.0
+  },
+  "MyObjectBuilder_Ore/Silicon": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Silicon",
+    "MinPrice": 1,
+    "ContractPrice": 100.0
+  },
+  "MyObjectBuilder_Ore/Silver": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Silver",
+    "MinPrice": 8,
+    "ContractPrice": 200.0
+  },
+  "MyObjectBuilder_Ore/Gold": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Gold",
+    "MinPrice": 15,
+    "ContractPrice": 200.0
+  },
+  "MyObjectBuilder_Ore/Platinum": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Platinum",
+    "MinPrice": 20,
+    "ContractPrice": 400.0
+  },
+  "MyObjectBuilder_Ore/Uranium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Uranium",
+    "MinPrice": 20,
+    "ContractPrice": 500.0
+  },
+  "MyObjectBuilder_Ingot/Stone": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Stone",
+    "MinPrice": 1,
+    "ContractPrice": 13.0
+  },
+  "MyObjectBuilder_Ingot/Iron": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Iron",
+    "MinPrice": 1,
+    "ContractPrice": 208.0
+  },
+  "MyObjectBuilder_Ingot/Nickel": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Nickel",
+    "MinPrice": 6,
+    "ContractPrice": 543.0
+  },
+  "MyObjectBuilder_Ingot/Cobalt": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Cobalt",
+    "MinPrice": 12,
+    "ContractPrice": 2672.0
+  },
+  "MyObjectBuilder_Ingot/Magnesium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Magnesium",
+    "MinPrice": 3,
+    "ContractPrice": 81194.0
+  },
+  "MyObjectBuilder_Ingot/Silicon": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Silicon",
+    "MinPrice": 2,
+    "ContractPrice": 306.0
+  },
+  "MyObjectBuilder_Ingot/Silver": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Silver",
+    "MinPrice": 9,
+    "ContractPrice": 4621.0
+  },
+  "MyObjectBuilder_Ingot/Gold": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Gold",
+    "MinPrice": 11,
+    "ContractPrice": 40296.0
+  },
+  "MyObjectBuilder_Ingot/Platinum": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Platinum",
+    "MinPrice": 16,
+    "ContractPrice": 213794.0
+  },
+  "MyObjectBuilder_Ingot/Uranium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Uranium",
+    "MinPrice": 23,
+    "ContractPrice": 138388.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/SemiAutoPistolItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/SemiAutoPistolItem",
+    "MinPrice": 640,
+    "ContractPrice": 640.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/FullAutoPistolItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/FullAutoPistolItem",
+    "MinPrice": 1048,
+    "ContractPrice": 1048.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/ElitePistolItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/ElitePistolItem",
+    "MinPrice": 207652,
+    "ContractPrice": 207652.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/FlareGunItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/FlareGunItem",
+    "MinPrice": 609,
+    "ContractPrice": 609.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/AutomaticRifleItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/AutomaticRifleItem",
+    "MinPrice": 2099,
+    "ContractPrice": 2099.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/PreciseAutomaticRifleItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/PreciseAutomaticRifleItem",
+    "MinPrice": 26947,
+    "ContractPrice": 26947.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/RapidFireAutomaticRifleItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/RapidFireAutomaticRifleItem",
+    "MinPrice": 9215,
+    "ContractPrice": 9215.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/UltimateAutomaticRifleItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/UltimateAutomaticRifleItem",
+    "MinPrice": 1701122,
+    "ContractPrice": 1701122.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/BasicHandHeldLauncherItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/BasicHandHeldLauncherItem",
+    "MinPrice": 48162,
+    "ContractPrice": 48162.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/AdvancedHandHeldLauncherItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/AdvancedHandHeldLauncherItem",
+    "MinPrice": 2204235,
+    "ContractPrice": 2204235.0
+  },
+  "MyObjectBuilder_OxygenContainerObject/OxygenBottle": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_OxygenContainerObject/OxygenBottle",
+    "MinPrice": 64756,
+    "ContractPrice": 64756.0
+  },
+  "MyObjectBuilder_GasContainerObject/HydrogenBottle": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_GasContainerObject/HydrogenBottle",
+    "MinPrice": 64756,
+    "ContractPrice": 64756.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/WelderItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/WelderItem",
+    "MinPrice": 1996,
+    "ContractPrice": 1996.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/Welder2Item": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/Welder2Item",
+    "MinPrice": 5062,
+    "ContractPrice": 5062.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/Welder3Item": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/Welder3Item",
+    "MinPrice": 25031,
+    "ContractPrice": 25031.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/Welder4Item": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/Welder4Item",
+    "MinPrice": 992880,
+    "ContractPrice": 992880.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/AngleGrinderItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/AngleGrinderItem",
+    "MinPrice": 1893,
+    "ContractPrice": 1893.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/AngleGrinder2Item": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/AngleGrinder2Item",
+    "MinPrice": 15483,
+    "ContractPrice": 15483.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/AngleGrinder3Item": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/AngleGrinder3Item",
+    "MinPrice": 30174,
+    "ContractPrice": 30174.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/AngleGrinder4Item": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/AngleGrinder4Item",
+    "MinPrice": 998273,
+    "ContractPrice": 998273.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/HandDrillItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/HandDrillItem",
+    "MinPrice": 8256,
+    "ContractPrice": 8256.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/HandDrill2Item": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/HandDrill2Item",
+    "MinPrice": 13576,
+    "ContractPrice": 13576.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/HandDrill3Item": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/HandDrill3Item",
+    "MinPrice": 35145,
+    "ContractPrice": 35145.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/HandDrill4Item": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/HandDrill4Item",
+    "MinPrice": 1003485,
+    "ContractPrice": 1003485.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/CubePlacerItem": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/CubePlacerItem",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ore/Scrap": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Scrap",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ingot/Scrap": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/Scrap",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ingot/PrototechScrap": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/PrototechScrap",
+    "MinPrice": 25000,
+    "ContractPrice": 25000.0
+  },
+  "MyObjectBuilder_Ore/Ice": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Ice",
+    "MinPrice": 50,
+    "ContractPrice": 50.0
+  },
+  "MyObjectBuilder_Ore/Organic": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/Organic",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/DesertTree": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/DesertTree",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/DesertTreeDead": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/DesertTreeDead",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/LeafTree": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/LeafTree",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/PineTree": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/PineTree",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/PineTreeSnow": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/PineTreeSnow",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/LeafTreeMedium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/LeafTreeMedium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/DesertTreeMedium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/DesertTreeMedium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/DesertTreeDeadMedium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/DesertTreeDeadMedium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/PineTreeMedium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/PineTreeMedium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/PineTreeSnowMedium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/PineTreeSnowMedium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/DeadBushMedium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/DeadBushMedium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/DesertBushMedium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/DesertBushMedium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/LeafBushMedium_var1": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/LeafBushMedium_var1",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/LeafBushMedium_var2": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/LeafBushMedium_var2",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/PineBushMedium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/PineBushMedium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_TreeObject/SnowPineBushMedium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_TreeObject/SnowPineBushMedium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_ConsumableItem/ClangCola": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/ClangCola",
+    "MinPrice": 100,
+    "ContractPrice": 100.0
+  },
+  "MyObjectBuilder_ConsumableItem/CosmicCoffee": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/CosmicCoffee",
+    "MinPrice": 100,
+    "ContractPrice": 100.0
+  },
+  "MyObjectBuilder_Datapad/Datapad": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Datapad/Datapad",
+    "MinPrice": 3369,
+    "ContractPrice": 3369.0
+  },
+  "MyObjectBuilder_Package/Package": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Package/Package",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_ConsumableItem/Medkit": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/Medkit",
+    "MinPrice": 750,
+    "ContractPrice": 750.0
+  },
+  "MyObjectBuilder_ConsumableItem/Powerkit": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/Powerkit",
+    "MinPrice": 1000,
+    "ContractPrice": 1000.0
+  },
+  "MyObjectBuilder_PhysicalObject/SpaceCredit": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalObject/SpaceCredit",
+    "MinPrice": 5,
+    "ContractPrice": 5.0
+  },
+  "MyObjectBuilder_Component/AQD_Tech_ARM_A1": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/AQD_Tech_ARM_A1",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Component/AQD_Tech_STOR_D1_CE": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/AQD_Tech_STOR_D1_CE",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Component/AQD_Tech_UTIL_G1": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/AQD_Tech_UTIL_G1",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Component/AQD_Tech_UTIL_G2": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/AQD_Tech_UTIL_G2",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Component/ShieldComponent": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/ShieldComponent",
+    "MinPrice": 2891,
+    "ContractPrice": 3957819.0
+  },
+  "MyObjectBuilder_Ore/DenseIron": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/DenseIron",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ore/DenseNickel": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/DenseNickel",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ore/DenseCobalt": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/DenseCobalt",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ore/DenseMagnesium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/DenseMagnesium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ore/DenseSilicon": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/DenseSilicon",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ore/DenseSilver": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/DenseSilver",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ore/DenseGold": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/DenseGold",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ore/DensePlatinum": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/DensePlatinum",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Ore/DenseUranium": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/DenseUranium",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_Component/HydrogenCredit": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/HydrogenCredit",
+    "MinPrice": 1,
+    "ContractPrice": 1.0
+  },
+  "MyObjectBuilder_Component/OxygenCredit": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/OxygenCredit",
+    "MinPrice": 1,
+    "ContractPrice": 1.0
+  },
+  "MyObjectBuilder_Component/PlasmaCredit": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/PlasmaCredit",
+    "MinPrice": 1,
+    "ContractPrice": 1.0
+  },
+  "MyObjectBuilder_Ore/PlasmaFuel": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ore/PlasmaFuel",
+    "MinPrice": 12992,
+    "ContractPrice": 12992.0
+  },
+  "MyObjectBuilder_Component/AryxLynxon_FusionComponent": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/AryxLynxon_FusionComponent",
+    "MinPrice": 6220,
+    "ContractPrice": 4364119.0
+  },
+  "MyObjectBuilder_PhysicalObject/IconBuffer_FreightHauling": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalObject/IconBuffer_FreightHauling",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_PhysicalObject/HeaderBuffer_FreightHauling": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalObject/HeaderBuffer_FreightHauling",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_ConsumableItem/JetpackInhibitorBlocker": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/JetpackInhibitorBlocker",
+    "MinPrice": 50000000,
+    "ContractPrice": 50000000.0
+  },
+  "MyObjectBuilder_ConsumableItem/DrillInhibitorBlocker": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/DrillInhibitorBlocker",
+    "MinPrice": 50000000,
+    "ContractPrice": 50000000.0
+  },
+  "MyObjectBuilder_ConsumableItem/PlayerInhibitorBlocker": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/PlayerInhibitorBlocker",
+    "MinPrice": 50000000,
+    "ContractPrice": 50000000.0
+  },
+  "MyObjectBuilder_ConsumableItem/EnergyInhibitorBlocker": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/EnergyInhibitorBlocker",
+    "MinPrice": 25000000,
+    "ContractPrice": 25000000.0
+  },
+  "MyObjectBuilder_ConsumableItem/CounterfeitInhibitorBlocker": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/CounterfeitInhibitorBlocker",
+    "MinPrice": 25000000,
+    "ContractPrice": 25000000.0
+  },
+  "MyObjectBuilder_Component/MESThrust": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/MESThrust",
+    "MinPrice": 13103,
+    "ContractPrice": 13103.0
+  },
+  "MyObjectBuilder_Component/ProprietaryTech": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/ProprietaryTech",
+    "MinPrice": 3369,
+    "ContractPrice": 3369.0
+  },
+  "MyObjectBuilder_Component/InhibitorChip": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/InhibitorChip",
+    "MinPrice": 10000000,
+    "ContractPrice": 10000000.0
+  },
+  "MyObjectBuilder_Ingot/UraniumB": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Ingot/UraniumB",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_ConsumableItem/SkeletonKey": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/SkeletonKey",
+    "MinPrice": 250000,
+    "ContractPrice": 250000.0
+  },
+  "MyObjectBuilder_ConsumableItem/HackingModule": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_ConsumableItem/HackingModule",
+    "MinPrice": 1000000,
+    "ContractPrice": 1000000.0
+  },
+  "MyObjectBuilder_AmmoMagazine/PaintGunMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/PaintGunMag",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_PhysicalGunObject/PhysicalPaintGun": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_PhysicalGunObject/PhysicalPaintGun",
+    "MinPrice": 3575,
+    "ContractPrice": 3575.0
+  },
+  "MyObjectBuilder_Component/Tech2x": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Tech2x",
+    "MinPrice": 89160,
+    "ContractPrice": 500000.0
+  },
+  "MyObjectBuilder_Component/Tech4x": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Tech4x",
+    "MinPrice": 62625000,
+    "ContractPrice": 200000.0
+  },
+  "MyObjectBuilder_Component/Tech8x": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/Tech8x",
+    "MinPrice": 6310500000,
+    "ContractPrice": 400000.0
+  },
+  "MyObjectBuilder_AmmoMagazine/Energy": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/Energy",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  },
+  "MyObjectBuilder_AmmoMagazine/54mmAmmoMagazine": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/54mmAmmoMagazine",
+    "MinPrice": 2025,
+    "ContractPrice": 1625753.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE85mmAmmoMagazine": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE85mmAmmoMagazine",
+    "MinPrice": 4632,
+    "ContractPrice": 2557519.0
+  },
+  "MyObjectBuilder_AmmoMagazine/60mmFlakMagazine": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/60mmFlakMagazine",
+    "MinPrice": 1800,
+    "ContractPrice": 2369176.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE135mmFlakMagazine": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE135mmFlakMagazine",
+    "MinPrice": 4032,
+    "ContractPrice": 2584948.0
+  },
+  "MyObjectBuilder_AmmoMagazine/aryx150mmBuckshotMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/aryx150mmBuckshotMag",
+    "MinPrice": 799,
+    "ContractPrice": 1579757.0
+  },
+  "MyObjectBuilder_AmmoMagazine/GaussAmmoMagDef": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/GaussAmmoMagDef",
+    "MinPrice": 575595,
+    "ContractPrice": 13760948.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AryxRailgunMagDef": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AryxRailgunMagDef",
+    "MinPrice": 34032,
+    "ContractPrice": 2052321.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AryxSmallRailgunMagDef": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AryxSmallRailgunMagDef",
+    "MinPrice": 9822,
+    "ContractPrice": 547122.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AryxLightCoilgunAmmo": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AryxLightCoilgunAmmo",
+    "MinPrice": 65307,
+    "ContractPrice": 107298895.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AryxHeavyCoilgunAmmo": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AryxHeavyCoilgunAmmo",
+    "MinPrice": 191700,
+    "ContractPrice": 11371985.0
+  },
+  "MyObjectBuilder_AmmoMagazine/50mmSmartEnergyMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/50mmSmartEnergyMag",
+    "MinPrice": 510,
+    "ContractPrice": 34123.0
+  },
+  "MyObjectBuilder_AmmoMagazine/50mmSmartMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/50mmSmartMag",
+    "MinPrice": 510,
+    "ContractPrice": 309679.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AryxReaperPulseCell": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AryxReaperPulseCell",
+    "MinPrice": 108469,
+    "ContractPrice": 37871371.0
+  },
+  "MyObjectBuilder_AmmoMagazine/70mmBurstMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/70mmBurstMag",
+    "MinPrice": 1755,
+    "ContractPrice": 1293537.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE120mmCannonMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE120mmCannonMag",
+    "MinPrice": 3094,
+    "ContractPrice": 4003790.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE100mmWarrorMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE100mmWarrorMag",
+    "MinPrice": 1920,
+    "ContractPrice": 1120307.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE240mmCannonMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE240mmCannonMag",
+    "MinPrice": 17625,
+    "ContractPrice": 8721721.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE480mmCannonMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE480mmCannonMag",
+    "MinPrice": 49050,
+    "ContractPrice": 35347081.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE600mmCannonMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE600mmCannonMag",
+    "MinPrice": 79092,
+    "ContractPrice": 47101355.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWEShrikeBombAmmoMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWEShrikeBombAmmoMag",
+    "MinPrice": 39120,
+    "ContractPrice": 3607120.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE1000mmMortarShellAmmoMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE1000mmMortarShellAmmoMag",
+    "MinPrice": 140175,
+    "ContractPrice": 91286224.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWEStarfallMissileAmmoMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWEStarfallMissileAmmoMag",
+    "MinPrice": 304425,
+    "ContractPrice": 47602218.0
+  },
+  "MyObjectBuilder_AmmoMagazine/84mmFlechetteMissileMagDef": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/84mmFlechetteMissileMagDef",
+    "MinPrice": 390,
+    "ContractPrice": 168970.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWEStrikerMissileMagDef": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWEStrikerMissileMagDef",
+    "MinPrice": 14700,
+    "ContractPrice": 277253.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWESabreMissileMagDef": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWESabreMissileMagDef",
+    "MinPrice": 5100,
+    "ContractPrice": 757947.0
+  },
+  "MyObjectBuilder_AmmoMagazine/84mmDisruptorMissileMagDef": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/84mmDisruptorMissileMagDef",
+    "MinPrice": 390,
+    "ContractPrice": 14688.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AryxTorpMagDef": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AryxTorpMagDef",
+    "MinPrice": 379688,
+    "ContractPrice": 19592966.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AryxHyperionTorpedo": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AryxHyperionTorpedo",
+    "MinPrice": 145479587,
+    "ContractPrice": 145479587.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AryxGladiusMissileMagDef": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AryxGladiusMissileMagDef",
+    "MinPrice": 11295,
+    "ContractPrice": 2137027.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWEKingswordMagazine": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWEKingswordMagazine",
+    "MinPrice": 1296073027,
+    "ContractPrice": 1296073027.0
+  },
+  "MyObjectBuilder_AmmoMagazine/ATLASAmmoMagazine": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/ATLASAmmoMagazine",
+    "MinPrice": 630,
+    "ContractPrice": 315458.0
+  },
+  "MyObjectBuilder_AmmoMagazine/CODEXAmmoMagazine": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/CODEXAmmoMagazine",
+    "MinPrice": 7333,
+    "ContractPrice": 7333.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE_SidekickDroneMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE_SidekickDroneMag",
+    "MinPrice": 27188067,
+    "ContractPrice": 27188067.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE_FalconDroneMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE_FalconDroneMag",
+    "MinPrice": 36686034,
+    "ContractPrice": 36686034.0
+  },
+  "MyObjectBuilder_AmmoMagazine/AWE_StormriderDroneMag": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_AmmoMagazine/AWE_StormriderDroneMag",
+    "MinPrice": 28005994,
+    "ContractPrice": 28005994.0
+  },
+  "MyObjectBuilder_Component/ElectromagnetAWE": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/ElectromagnetAWE",
+    "MinPrice": 4800,
+    "ContractPrice": 259783.0
+  },
+  "MyObjectBuilder_Component/MilitaryPlateAWE": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/MilitaryPlateAWE",
+    "MinPrice": 9160,
+    "ContractPrice": 267272.0
+  },
+  "MyObjectBuilder_Component/SuperchargerAWE": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/SuperchargerAWE",
+    "MinPrice": 16575,
+    "ContractPrice": 4569523.0
+  },
+  "MyObjectBuilder_Component/AdminKit": {
+    "RangeModifier": 0.05,
+    "SellPriceModifier": 0.7,
+    "ContractPriceModifier": 0.7,
+    "NotFound": false,
+    "Id": "MyObjectBuilder_Component/AdminKit",
+    "MinPrice": 1000000000,
+    "ContractPrice": 1000000000.0
+  }
+}

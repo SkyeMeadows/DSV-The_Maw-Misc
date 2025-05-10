@@ -1,0 +1,121 @@
+[
+  {
+    "$type": "CrunchEconContractModels.Contracts.MiningContractConfig, MyAssembly",
+    "AmountOfContractsToGenerate": 6,
+    "ChanceToAppear": 1.0,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": [
+      "GPS:Station:440213.217357042:283218.537098829:280656.765040161:#FFFFA500:"
+    ],
+    "PricePerItemMin": 2,
+    "PricePerItemMax": 4,
+    "AmountToMineThenDeliverMin": 350000,
+    "AmountToMineThenDeliverMax": 500000,
+    "SecondsToComplete": 1200,
+    "ReputationRequired": 0,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 3,
+    "ReputationLossOnAbandon": 5,
+    "OresToPickFrom": [
+      "Iron",
+      "Nickel",
+	  "Cobalt",
+	  "Silicon"
+    ],
+    "SpawnOreInStation": false
+  },
+  {
+    "$type": "CrunchEconContractModels.Contracts.MiningContractConfig, MyAssembly",
+    "AmountOfContractsToGenerate": 1,
+    "ChanceToAppear": 1.0,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": [
+      "GPS:Station:440213.217357042:283218.537098829:280656.765040161:#FFFFA500:"
+    ],
+    "PricePerItemMin": 5,
+    "PricePerItemMax": 9,
+    "AmountToMineThenDeliverMin": 500000,
+    "AmountToMineThenDeliverMax": 1100000,
+    "SecondsToComplete": 1200,
+    "ReputationRequired": -100,
+    "ReputationGainOnCompleteMin": 2,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "OresToPickFrom": [
+      "Magnesium"
+    ],
+    "SpawnOreInStation": false
+  },
+  {
+    "$type": "CrunchEconContractModels.Contracts.MiningContractConfig, MyAssembly",
+    "AmountOfContractsToGenerate": 1,
+    "ChanceToAppear": 1.0,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": [
+      "GPS:Station:440213.217357042:283218.537098829:280656.765040161:#FFFFA500:"
+    ],
+    "PricePerItemMin": 6,
+    "PricePerItemMax": 10,
+    "AmountToMineThenDeliverMin": 400000,
+    "AmountToMineThenDeliverMax": 750000,
+    "SecondsToComplete": 1200,
+    "ReputationRequired": 50,
+    "ReputationGainOnCompleteMin": 2,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "OresToPickFrom": [
+      "Silver"
+    ],
+    "SpawnOreInStation": false
+  },
+  {
+    "$type": "CrunchEconContractModels.Contracts.MiningContractConfig, MyAssembly",
+    "AmountOfContractsToGenerate": 1,
+    "ChanceToAppear": 1.0,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": [
+      "GPS:Station:440213.217357042:283218.537098829:280656.765040161:#FFFFA500:"
+    ],
+    "PricePerItemMin": 12,
+    "PricePerItemMax": 18,
+    "AmountToMineThenDeliverMin": 400000,
+    "AmountToMineThenDeliverMax": 850000,
+    "SecondsToComplete": 1200,
+    "ReputationRequired": 75,
+    "ReputationGainOnCompleteMin": 4,
+    "ReputationGainOnCompleteMax": 8,
+    "ReputationLossOnAbandon": 10,
+    "OresToPickFrom": [
+      "Gold"
+    ],
+    "SpawnOreInStation": false
+  },
+  {
+    "$type": "CrunchEconContractModels.Contracts.MiningContractConfig, MyAssembly",
+    "AmountOfContractsToGenerate": 3,
+    "ChanceToAppear": 0.1,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": [
+      "GPS:Station:440213.217357042:283218.537098829:280656.765040161:#FFFFA500:"
+    ],
+    "PricePerItemMin": 15,
+    "PricePerItemMax": 22,
+    "AmountToMineThenDeliverMin": 500000,
+    "AmountToMineThenDeliverMax": 900000,
+    "SecondsToComplete": 1200,
+    "ReputationRequired": 100,
+    "ReputationGainOnCompleteMin": 5,
+    "ReputationGainOnCompleteMax": 10,
+    "ReputationLossOnAbandon": 10,
+    "OresToPickFrom": [
+      "Platinum",
+      "Uranium"
+    ],
+    "SpawnOreInStation": false
+  },
+]

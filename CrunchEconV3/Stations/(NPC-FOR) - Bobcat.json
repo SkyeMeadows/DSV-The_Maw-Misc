@@ -1,0 +1,33 @@
+{
+  "UsesDefault": false,
+  "UsedTemplate": null,
+  "SubstationGpsStrings": [],
+  "Logics": [
+    {
+      "$type": "CrunchEconV3.PlugAndPlayV2.StationLogics.StoreLogic, CrunchEconV3",
+      "StoreFileName": "FORGE-Shipyard.json",
+      "IsFirstRun": false,
+      "NextModifierReset": "2025-05-10T18:09:37.6360164-04:00",
+      "NextStoreRefresh": "2025-05-08T18:25:01.0996483-04:00",
+      "NextInventoryRefresh": "0001-01-01T00:00:00",
+      "Modifier": 0.056923415747901163,
+      "MaximumModifier": 0.15,
+      "Priority": 0,
+      "DaysBetweenModifierResets": 7,
+      "MaintainBalance": true,
+      "SecondsBetweenRefresh": 600
+    }
+  ],
+  "Enabled": true,
+  "LocationGPS": "GPS:Station:440213.217357042:283218.537098829:280656.765040161:#FFFFA500:",
+  "FactionTag": "FORGE",
+  "SecondsBetweenContractRefresh": 300,
+  "ContractFiles": [
+    "/Contracts/FORGE/Mining.json"
+  ],
+  "FileName": "(NPC-FOR) - Bobcat.json",
+  "UseAsDeliveryLocation": true,
+  "StorePriceModifier": 1.0,
+  "StoreQuantityModifier": 1.0,
+  "ContractPriceModifier": 1.0
+}

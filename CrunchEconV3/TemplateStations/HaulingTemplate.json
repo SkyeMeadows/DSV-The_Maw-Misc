@@ -1,0 +1,35 @@
+{
+  "UsesDefault": false,
+  "UsedTemplate": null,
+  "SubstationGpsStrings": [],
+  "Logics": [
+    {
+      "$type": "CrunchEconV3.PlugAndPlayV2.StationLogics.StoreLogic, CrunchEconV3",
+      "StoreFileName": null,
+      "IsFirstRun": true,
+      "NextModifierReset": "0001-01-01T00:00:00",
+      "NextStoreRefresh": "0001-01-01T00:00:00",
+      "NextInventoryRefresh": "0001-01-01T00:00:00",
+      "Modifier": 0.0,
+      "MaximumModifier": 0.15,
+      "Priority": 0,
+      "DaysBetweenModifierResets": 7,
+      "MaintainBalance": true,
+      "SecondsBetweenRefresh": 3600
+    }
+  ],
+  "Enabled": true,
+  "LocationGPS": "Put a gps here",
+  "FactionTag": "SPRT",
+  "SecondsBetweenContractRefresh": 1200,
+  "ContractFiles": [
+    "/BaseSetup/GasHauling.json",
+    "/BaseSetup/BasicHauling.json",
+    "/BaseSetup/AdvancedHauling.json"
+  ],
+  "FileName": "HaulingTemplate.json",
+  "UseAsDeliveryLocation": true,
+  "StorePriceModifier": 1.0,
+  "StoreQuantityModifier": 1.0,
+  "ContractPriceModifier": 1.0
+}

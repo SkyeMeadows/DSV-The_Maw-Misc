@@ -1,0 +1,18 @@
+{
+  "UsesDefault": false,
+  "UsedTemplate": null,
+  "SubstationGpsStrings": [],
+  "Logics": [],
+  "Enabled": false,
+  "LocationGPS": "GPS:New:0:0:0:#FF75C9F1:",
+  "FactionTag": "SPRT",
+  "SecondsBetweenContractRefresh": 0,
+  "ContractFiles": [
+    "/Example/Contracts.json"
+  ],
+  "FileName": "Example.Json",
+  "UseAsDeliveryLocation": true,
+  "StorePriceModifier": 1.0,
+  "StoreQuantityModifier": 1.0,
+  "ContractPriceModifier": 1.0
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "$type": "CrunchEconContractModels.Contracts.GasContractConfig, MyAssembly",
+    "AmountOfContractsToGenerate": 2,
+    "SecondsToComplete": 1200,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 3,
+    "ReputationLossOnAbandon": 5,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 1.0,
+    "CollateralMin": 1000,
+    "CollateralMax": 5000,
+    "DeliveryGPSes": [
+      "Put a gps here"
+    ],
+    "GasSubType": "Hydrogen",
+    "AmountInLitresMin": 200000,
+    "AmountInLitresMax": 480000,
+    "PricePerLitreMin": 50,
+    "PricePerLitreMax": 75
+  },
+  {
+    "$type": "CrunchEconContractModels.Contracts.ItemHaulingContractConfig, MyAssembly",
+    "CargoNames": [],
+    "AmountOfContractsToGenerate": 3,
+    "ContractName": "Item Delivery",
+    "ChanceToAppear": 0.5,
+    "CollateralMin": 1,
+    "CollateralMax": 3,
+    "DeliveryGPSes": [
+      "Put a gps here"
+    ],
+    "BonusPerKMDistance": 1,
+    "SecondsToComplete": 1200,
+    "ReputationRequired": 0,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 3,
+    "ReputationLossOnAbandon": 5,
+    "ItemsAvailable": [
+      {
+        "TypeId": "MyObjectBuilder_Ingot",
+        "SubTypeId": "Iron",
+        "AmountMin": 25000,
+        "AmountMax": 50000,
+        "PricePerItemMin": 0,
+        "PricePerItemMax": 0
+      }
+    ],
+    "PlaceItemsInTargetStation": false
+  },
+  {
+    "$type": "CrunchEconContractModels.Contracts.MiningContractConfig, MyAssembly",
+    "AmountOfContractsToGenerate": 3,
+    "ChanceToAppear": 0.5,
+    "CollateralMin": 1,
+    "CollateralMax": 1,
+    "DeliveryGPSes": [
+      "Put a gps here"
+    ],
+    "PricePerItemMin": 1,
+    "PricePerItemMax": 3,
+    "AmountToMineThenDeliverMin": 1,
+    "AmountToMineThenDeliverMax": 10,
+    "SecondsToComplete": 1200,
+    "ReputationRequired": 0,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "OresToPickFrom": [
+      "Iron",
+      "Nickel",
+      "Gold",
+      "Silver"
+    ],
+    "SpawnOreInStation": false
+  },
+  {
+    "$type": "CrunchEconContractModels.Contracts.PeopleHaulingContractConfig, MyAssembly",
+    "ConsumeOxygen": false,
+    "OxygenLitrePerPassenger": 1000,
+    "SecondsBetweenOxygenChecks": 60,
+    "NextOxygenCheck": "0001-01-01T00:00:00",
+    "DeadPassengers": 0,
+    "PercentDeathsPerFail": 0.1,
+    "AmountOfContractsToGenerate": 3,
+    "ChanceToAppear": 0.5,
+    "CollateralMin": 1,
+    "CollateralMax": 3,
+    "DeliveryGPSes": [
+      "Put a gps here"
+    ],
+    "PricePerPassengerMin": 1,
+    "PricePerPassengerMax": 3,
+    "BonusPerKMDistance": 1,
+    "SecondsToComplete": 1200,
+    "ReputationRequired": 0,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 3,
+    "ReputationLossOnAbandon": 5,
+    "ReputationMultiplierForMaximumPassengers": 0.3,
+    "PassengerBlocksAvailable": [
+      {
+        "BlockPairName": "Bed",
+        "PassengerSpace": 2
+      }
+    ]
+  },
+  {
+    "$type": "CrunchEconContractModels.Contracts.RepairContractConfig, MyAssembly",
+    "Description": "You must repair {prefabName} found at the repair location",
+    "AmountOfContractsToGenerate": 2,
+    "SecondsToComplete": 1200,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 3,
+    "ReputationLossOnAbandon": 5,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 1.0,
+    "CollateralMin": 1000,
+    "CollateralMax": 5000,
+    "DeliveryGPSes": [
+      "Put a gps here"
+    ],
+    "PrefabNames": [
+      "Pirate.sbc"
+    ],
+    "RewardMin": 50,
+    "RewardMax": 75,
+    "DeleteGridOnCompletion": true,
+    "MinSpawnRangeInKM": 50,
+    "MaxSpawnRangeInKM": 75
+  }
+]
