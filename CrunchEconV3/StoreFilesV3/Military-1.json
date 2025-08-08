@@ -1,0 +1,157 @@
+{
+  "SellHydrogen": false,
+  "SellOxygn": false,
+  "SellPrefabs": false,
+  "SellingToPlayers": [
+    {
+      "ChanceToAppear": 0.8101701,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AutocannonClip",
+      "AmountMin": 30,
+      "AmountMax": 300
+    },
+    {
+      "ChanceToAppear": 0.3027564,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "LargeCalibreAmmo",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.8648165,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "LargeRailgunAmmo",
+      "AmountMin": 3,
+      "AmountMax": 15
+    },
+    {
+      "ChanceToAppear": 0.5808488,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Explosives",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.878728867,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "ElitePistolItem",
+      "AmountMin": 1,
+      "AmountMax": 3
+    },
+    {
+      "ChanceToAppear": 0.682389,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "PreciseAutomaticRifleGun_Mag_5rd",
+      "AmountMin": 10,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.7200306,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "Missile200mm",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.628859758,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "AngleGrinder3Item",
+      "AmountMin": 5,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.38945815,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Powerkit",
+      "AmountMin": 5,
+      "AmountMax": 50
+    }
+  ],
+  "BuyingFromPlayers": [
+    {
+      "ChanceToAppear": 0.875725448,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "InteriorPlate",
+      "AmountMin": 500,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8615658,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Girder",
+      "AmountMin": 40,
+      "AmountMax": 400
+    },
+    {
+      "ChanceToAppear": 0.880175054,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SmallTube",
+      "AmountMin": 60,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.9885452,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "LargeTube",
+      "AmountMin": 80,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.7555204,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Display",
+      "AmountMin": 20,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.9940325,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "BulletproofGlass",
+      "AmountMin": 200,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.656048238,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Computer",
+      "AmountMin": 300,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.6591961,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "GravityGenerator",
+      "AmountMin": 5,
+      "AmountMax": 40
+    },
+    {
+      "ChanceToAppear": 0.382589132,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SolarCell",
+      "AmountMin": 30,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.828082,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Magnesium",
+      "AmountMin": 10,
+      "AmountMax": 200
+    },
+    {
+      "ChanceToAppear": 0.806600869,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Uranium",
+      "AmountMin": 10,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.7753583,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "PrototechScrap",
+      "AmountMin": 10,
+      "AmountMax": 50
+    }
+  ],
+  "PrefabsToSell": {}
+}

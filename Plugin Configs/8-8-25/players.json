@@ -1,0 +1,675 @@
+[
+  {
+    "Player": "SkyeCat",
+    "SteamID": 76561198254856411,
+    "IdentityID": 144115188075855918,
+    "Rank": "",
+    "KnownIps": [
+      "47.186.54.240",
+      "47.186.47.33"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Aelsius",
+    "SteamID": 76561198051810029,
+    "IdentityID": 176561198051810029,
+    "Rank": "",
+    "KnownIps": [
+      "108.170.167.106"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Bluesdad",
+    "SteamID": 76561198856533022,
+    "IdentityID": 176561198856533022,
+    "Rank": "",
+    "KnownIps": [
+      "162.254.199.163",
+      "162.254.195.66",
+      "162.254.195.71",
+      "162.254.193.74"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "CODE7",
+    "SteamID": 76561198038048075,
+    "IdentityID": 176561198038048075,
+    "Rank": "",
+    "KnownIps": [
+      "162.248.33.144"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Jetzilla",
+    "SteamID": 76561198017339739,
+    "IdentityID": 176561198017339739,
+    "Rank": "",
+    "KnownIps": [
+      "73.72.31.34"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Jax",
+    "SteamID": 76561198170003579,
+    "IdentityID": 176561198170003579,
+    "Rank": "",
+    "KnownIps": [
+      "62.49.246.212"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "TrinitySyx",
+    "SteamID": 76561198353324415,
+    "IdentityID": 176561198353324415,
+    "Rank": "",
+    "KnownIps": [
+      "98.183.5.226"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "MaJHeckler",
+    "SteamID": 76561198073200908,
+    "IdentityID": 176561198073200908,
+    "Rank": "",
+    "KnownIps": [
+      "45.17.11.206"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "MobY",
+    "SteamID": 76561198121001152,
+    "IdentityID": 176561198121001152,
+    "Rank": "",
+    "KnownIps": [
+      "81.167.3.226"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "King Gaming",
+    "SteamID": 76561198445673968,
+    "IdentityID": 176561198445673968,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "98.180.18.8",
+      "70.187.93.15"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "schnitzel",
+    "SteamID": 76561198101944912,
+    "IdentityID": 176561198101944912,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "31.19.177.131",
+      "31.19.178.20"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "thekingofgames12",
+    "SteamID": 76561199066064562,
+    "IdentityID": 176561199066064562,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "66.22.133.111",
+      "66.22.133.78",
+      "66.22.133.117"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Avocardo",
+    "SteamID": 76561198967503096,
+    "IdentityID": 176561198967503096,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "217.105.187.112"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "maugrim0",
+    "SteamID": 76561198098654989,
+    "IdentityID": 176561198098654989,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "76.202.165.61"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Ink",
+    "SteamID": 76561197963034389,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "81.225.28.47"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Scr33byt",
+    "SteamID": 76561198998394089,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "75.57.121.7"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Angelwrith",
+    "SteamID": 76561197995272854,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "185.239.174.218"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Azra",
+    "SteamID": 76561198332911376,
+    "IdentityID": 176561198332911376,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "45.92.45.40"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "fenrir2804",
+    "SteamID": 76561199192422086,
+    "IdentityID": 176561199192422086,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "81.146.48.106"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Veteran of the Psychic Wars",
+    "SteamID": 76561198369030175,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "73.177.128.154"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Raptor",
+    "SteamID": 76561198137988397,
+    "IdentityID": 176561198137988397,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "173.77.249.50"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Armyllama",
+    "SteamID": 76561198185830430,
+    "IdentityID": 176561198185830430,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "96.250.197.242"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "f3r8",
+    "SteamID": 76561198046762693,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "95.99.30.211"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "xXShadowNinjaXx",
+    "SteamID": 76561198103613530,
+    "IdentityID": 176561198103613530,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "68.41.93.185"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Redbeard91",
+    "SteamID": 76561199541942143,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "98.186.82.22"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Baabsheepish",
+    "SteamID": 76561199153259165,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "143.55.59.52"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "da zink27",
+    "SteamID": 76561199064981652,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "205.185.98.55"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "FrontLine Moth",
+    "SteamID": 76561198353214531,
+    "IdentityID": 176561198353214531,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "68.226.24.21"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Thundercloud",
+    "SteamID": 76561198430200140,
+    "IdentityID": 176561198430200140,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "75.89.27.26"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "DigitalBench",
+    "SteamID": 76561198373529902,
+    "IdentityID": 176561198373529902,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "86.156.103.100"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Jran",
+    "SteamID": 76561198289718253,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "98.97.40.118"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "DarkMassacre",
+    "SteamID": 76561198142569529,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "73.157.72.172"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Die four you™",
+    "SteamID": 76561198215618387,
+    "IdentityID": 176561198215618387,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "216.41.250.141"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Rune",
+    "SteamID": 76561199018303113,
+    "IdentityID": 176561199018303113,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "69.176.221.175"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Jyherapher",
+    "SteamID": 76561198043113702,
+    "IdentityID": 0,
+    "Rank": "Scripter",
+    "KnownIps": [
+      "69.57.103.145"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  }
+]

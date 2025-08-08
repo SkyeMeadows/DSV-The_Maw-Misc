@@ -1,0 +1,421 @@
+{
+  "SellHydrogen": false,
+  "SellOxygn": false,
+  "SellingToPlayers": [
+    {
+      "ChanceToAppear": 0.75,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Medkit",
+      "AmountMin": 5,
+      "AmountMax": 20
+    },
+    {
+      "ChanceToAppear": 1.0,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Powerkit",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SteelPlate",
+      "AmountMin": 10000,
+      "AmountMax": 25000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "InteriorPlate",
+      "AmountMin": 9000,
+      "AmountMax": 22000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SmallTube",
+      "AmountMin": 2000,
+      "AmountMax": 10000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "LargeTube",
+      "AmountMin": 1000,
+      "AmountMax": 2500
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Construction",
+      "AmountMin": 5000,
+      "AmountMax": 25000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Girder",
+      "AmountMin": 1000,
+      "AmountMax": 5000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Motor",
+      "AmountMin": 1500,
+      "AmountMax": 15000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Computer",
+      "AmountMin": 5000,
+      "AmountMax": 50000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Display",
+      "AmountMin": 200,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "PowerCell",
+      "AmountMin": 750,
+      "AmountMax": 1500
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "MetalGrid",
+      "AmountMin": 1750,
+      "AmountMax": 10000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "BulletproofGlass",
+      "AmountMin": 750,
+      "AmountMax": 5000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "RadioCommunication",
+      "AmountMin": 150,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Detector",
+      "AmountMin": 250,
+      "AmountMax": 2000
+    },
+    {
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "MilitaryPlateAWE",
+      "AmountMin": 1000,
+      "AmountMax": 7500
+    },
+    {
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Explosives",
+      "AmountMin": 250,
+      "AmountMax": 2000
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "54mmAmmoMagazine",
+      "AmountMin": 150,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "60mmFlakMagazine",
+      "AmountMin": 100,
+      "AmountMax": 350
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AryxSmallRailgunMagDef",
+      "AmountMin": 50,
+      "AmountMax": 200
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AWE120mmCannonMag",
+      "AmountMin": 150,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "50mmSmartMag",
+      "AmountMin": 150,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "50mmSmartEnergyMag",
+      "AmountMin": 150,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.7,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "84FlechetteMissileDef",
+      "AmountMin": 100,
+      "AmountMax": 300
+    },
+    {
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AWE85mmAmmoMagazine",
+      "AmountMin": 100,
+      "AmountMax": 300
+    },
+    {
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AWE240mmCannonMag",
+      "AmountMin": 100,
+      "AmountMax": 300
+    },
+    {
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AWE480CannonMag",
+      "AmountMin": 75,
+      "AmountMax": 200
+    },
+    {
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AWEStrikerMissileMagDef",
+      "AmountMin": 50,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AWESabreMissileMagDef",
+      "AmountMin": 75,
+      "AmountMax": 200
+    },
+    {
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "ATLASAmmoMagazine",
+      "AmountMin": 100,
+      "AmountMax": 300
+    },
+    {
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "CODEXAmmoMagazine",
+      "AmountMin": 150,
+      "AmountMax": 400
+    },
+    {
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AryxRailgunMagDef",
+      "AmountMin": 100,
+      "AmountMax": 300
+    },
+    {
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AWE135mmFlakMagazine",
+      "AmountMin": 100,
+      "AmountMax": 300
+    },
+    {
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "aryx150mmBuckshotMag",
+      "AmountMin": 100,
+      "AmountMax": 300
+    },
+    {
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AryxLightCoilgunAmmo",
+      "AmountMin": 50,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AryxHeavyCoilgunAmmo",
+      "AmountMin": 20,
+      "AmountMax": 75
+    },
+    {
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AWE600mmCannonMag",
+      "AmountMin": 50,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AWE1000mmMortarShellAmmoMag",
+      "AmountMin": 20,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AryxGladiusMissileMagDef",
+      "AmountMin": 50,
+      "AmountMax": 100
+    }
+  ],
+  "BuyingFromPlayers": [
+    {
+      "ChanceToAppear": 0.5,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SteelPlate",
+      "AmountMin": 500,
+      "AmountMax": 1500
+    },
+	{
+      "ChanceToAppear": 0.5,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Reactor",
+      "AmountMin": 1000,
+      "AmountMax": 2500
+    },
+	{
+      "ChanceToAppear": 0.3,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Thrust",
+      "AmountMin": 2000,
+      "AmountMax": 7500
+    },
+	{
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Superconductor",
+      "AmountMin": 500,
+      "AmountMax": 1500
+    },
+	{
+      "ChanceToAppear": 0.3,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Gravity",
+      "AmountMin": 50,
+      "AmountMax": 200
+    },
+	{
+      "ChanceToAppear": 0.4,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Medical",
+      "AmountMin": 50,
+      "AmountMax": 300
+    },
+	{
+      "ChanceToAppear": 0.5,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "ShieldComponent",
+      "AmountMin": 50,
+      "AmountMax": 600
+    },
+	{
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "AryxLynxon_FusionComponent",
+      "AmountMin": 50,
+      "AmountMax": 300
+    },
+	{
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "ElectromagnetAWE",
+      "AmountMin": 50,
+      "AmountMax": 300
+    },
+	{
+      "ChanceToAppear": 0.2,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Supercharger",
+      "AmountMin": 50,
+      "AmountMax": 300
+    },
+	{
+      "ChanceToAppear": 0.05,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "DSV-KarnyxiumCore",
+      "AmountMin": 1,
+      "AmountMax": 1
+    },
+	{
+      "ChanceToAppear": 0.05,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "DSV-JumpCatalyst",
+      "AmountMin": 1,
+      "AmountMax": 2
+    },
+	{
+      "ChanceToAppear": 0.1,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "DSV-EchoSeal",
+      "AmountMin": 10,
+      "AmountMax": 500
+    },
+	{
+      "ChanceToAppear": 0.1,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "DSV-HardenedPlate",
+      "AmountMin": 25,
+      "AmountMax": 100
+    },
+	{
+      "ChanceToAppear": 0.05,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "DSV-GravityConduit",
+      "AmountMin": 1,
+      "AmountMax": 10
+    },
+	{
+      "ChanceToAppear": 0.05,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "DSV-CatalystCapacitor",
+      "AmountMin": 5,
+      "AmountMax": 50
+    },
+	{
+      "ChanceToAppear": 0.05,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "DSV-EntropyMatrix",
+      "AmountMin": 15,
+      "AmountMax": 100
+    },
+	{
+      "ChanceToAppear": 0.1,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "DSV-AdvancedProductionMatrix",
+      "AmountMin": 1,
+      "AmountMax": 5
+    },
+	{
+      "ChanceToAppear": 0.05,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "DSV-RecursiveHeater",
+      "AmountMin": 100,
+      "AmountMax": 2000
+    }
+  ]
+}

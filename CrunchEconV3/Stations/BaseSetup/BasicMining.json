@@ -1,0 +1,87 @@
+[
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 10000,
+    "AmountToMineThenDeliverMax": 15000,
+    "OresToPickFrom": [
+      "Iron",
+      "Nickel",
+      "Silicon",
+      "Ice"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 5,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 5,
+    "ReputationGainOnCompleteMax": 10,
+    "ReputationLossOnAbandon": 15,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.5,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 100000,
+    "AmountToMineThenDeliverMax": 150000,
+    "OresToPickFrom": [
+      "Ice"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 5,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 5,
+    "ReputationGainOnCompleteMax": 10,
+    "ReputationLossOnAbandon": 15,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.05,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 25000,
+    "AmountToMineThenDeliverMax": 30000,
+    "OresToPickFrom": [
+      "Iron",
+      "Nickel",
+      "Silicon",
+      "Ice"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 2,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 5,
+    "ReputationGainOnCompleteMax": 10,
+    "ReputationLossOnAbandon": 15,
+    "ReputationRequired": 1000,
+    "ChanceToAppear": 0.3,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 1000,
+    "AmountToMineThenDeliverMax": 1500,
+    "OresToPickFrom": [
+      "Silver",
+      "Gold",
+      "Cobalt",
+      "Magnesium"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 5,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 3,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 20,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.5,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  }
+]

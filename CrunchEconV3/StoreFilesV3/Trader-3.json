@@ -1,0 +1,304 @@
+{
+  "SellHydrogen": false,
+  "SellOxygn": false,
+  "SellPrefabs": false,
+  "SellingToPlayers": [
+    {
+      "ChanceToAppear": 0.7297143,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "RapidFireAutomaticRifleItem",
+      "AmountMin": 1,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.773345232,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "SemiAutoPistolItem",
+      "AmountMin": 1,
+      "AmountMax": 20
+    },
+    {
+      "ChanceToAppear": 0.9053253,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "FullAutoPistolItem",
+      "AmountMin": 1,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.8181034,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "ElitePistolItem",
+      "AmountMin": 1,
+      "AmountMax": 3
+    },
+    {
+      "ChanceToAppear": 0.636847,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "BasicHandHeldLauncherItem",
+      "AmountMin": 1,
+      "AmountMax": 5
+    },
+    {
+      "ChanceToAppear": 0.5978186,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "AdvancedHandHeldLauncherItem",
+      "AmountMin": 1,
+      "AmountMax": 3
+    },
+    {
+      "ChanceToAppear": 0.3529585,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "WelderItem",
+      "AmountMin": 10,
+      "AmountMax": 20
+    },
+    {
+      "ChanceToAppear": 0.808137357,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "AngleGrinderItem",
+      "AmountMin": 10,
+      "AmountMax": 20
+    },
+    {
+      "ChanceToAppear": 0.995922148,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "AngleGrinder4Item",
+      "AmountMin": 1,
+      "AmountMax": 3
+    },
+    {
+      "ChanceToAppear": 0.8397133,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "HandDrillItem",
+      "AmountMin": 10,
+      "AmountMax": 20
+    },
+    {
+      "ChanceToAppear": 0.9449182,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "HandDrill2Item",
+      "AmountMin": 5,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.6529039,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Construction",
+      "AmountMin": 1000,
+      "AmountMax": 5000
+    },
+    {
+      "ChanceToAppear": 0.482920468,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "MetalGrid",
+      "AmountMin": 250,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.7259536,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SmallTube",
+      "AmountMin": 1000,
+      "AmountMax": 3000
+    },
+    {
+      "ChanceToAppear": 0.324117273,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "LargeTube",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.7547846,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Motor",
+      "AmountMin": 1000,
+      "AmountMax": 2000
+    },
+    {
+      "ChanceToAppear": 0.5414949,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Display",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.7892118,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Computer",
+      "AmountMin": 1000,
+      "AmountMax": 5000
+    },
+    {
+      "ChanceToAppear": 0.6850322,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "RadioCommunication",
+      "AmountMin": 30,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.7987421,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Explosives",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.424234241,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SolarCell",
+      "AmountMin": 30,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.9247181,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "NATO_25x184mm",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.477285117,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "Missile200mm",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.736975,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AutocannonClip",
+      "AmountMin": 30,
+      "AmountMax": 300
+    },
+    {
+      "ChanceToAppear": 0.9584783,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "LargeCalibreAmmo",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.7718382,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "LargeRailgunAmmo",
+      "AmountMin": 3,
+      "AmountMax": 15
+    },
+    {
+      "ChanceToAppear": 0.7133638,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "SmallRailgunAmmo",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.559161663,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "ElitePistolMagazine",
+      "AmountMin": 10,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.4386068,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "AutomaticRifleGun_Mag_20rd",
+      "AmountMin": 10,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.958255053,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "RapidFireAutomaticRifleGun_Mag_50rd",
+      "AmountMin": 10,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.38099438,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "PreciseAutomaticRifleGun_Mag_5rd",
+      "AmountMin": 10,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.9140534,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "UltimateAutomaticRifleGun_Mag_30rd",
+      "AmountMin": 10,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.408803,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Medkit",
+      "AmountMin": 5,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.795690238,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "CosmicCoffee",
+      "AmountMin": 1000,
+      "AmountMax": 10000
+    }
+  ],
+  "BuyingFromPlayers": [
+    {
+      "ChanceToAppear": 0.376295418,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Magnesium",
+      "AmountMin": 10,
+      "AmountMax": 200
+    },
+    {
+      "ChanceToAppear": 0.352822274,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Gold",
+      "AmountMin": 30,
+      "AmountMax": 3000
+    },
+    {
+      "ChanceToAppear": 0.454390764,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Platinum",
+      "AmountMin": 10,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.6593789,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Superconductor",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.91916126,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Thrust",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.833137631,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Detector",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.8279155,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "PowerCell",
+      "AmountMin": 50,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.479262,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "EngineerPlushie",
+      "AmountMin": 0,
+      "AmountMax": 0
+    }
+  ],
+  "PrefabsToSell": {}
+}

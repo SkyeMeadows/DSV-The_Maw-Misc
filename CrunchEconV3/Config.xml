@@ -4,16 +4,15 @@
   <StoragePath>default</StoragePath>
   <SetMinPricesTo1>false</SetMinPricesTo1>
   <RemoveKeenContractsOnStations>true</RemoveKeenContractsOnStations>
-  <OverrideKeenStores>true</OverrideKeenStores>
+  <OverrideKeenStores>false</OverrideKeenStores>
   <GravityPriceModifier>1</GravityPriceModifier>
   <DebugMode>false</DebugMode>
   <KeenNPCContracts>
     <KeenNPCEntry>
       <NPCFactionTags>
         <string>SPRT</string>
-        <string>BERTI</string>
-        <string>FORGE</string>
-        <string>UNITE</string>
+        <string>TCOTM</string>
+        <string>LNTRI</string>
       </NPCFactionTags>
       <ContractFiles>
         <string>/Stations/Example/Contracts.json</string>

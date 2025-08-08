@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EconName>CrunchEcon</EconName>
+  <ShipSaleCommands>true</ShipSaleCommands>
+  <ShowFactionTagsOnDamageGrid>false</ShowFactionTagsOnDamageGrid>
+  <LogFactionStuff>true</LogFactionStuff>
+  <EconomyChangesInLog>true</EconomyChangesInLog>
+  <LogNeutralsDamagingEachOther>false</LogNeutralsDamagingEachOther>
+  <PcuCountShowProjPCU>true</PcuCountShowProjPCU>
+  <EcoChatMessages>true</EcoChatMessages>
+  <ScrapMetalPatch>false</ScrapMetalPatch>
+  <ScrapMetalPatchNeverSpawn>false</ScrapMetalPatchNeverSpawn>
+  <FixTradeStation>false</FixTradeStation>
+  <PlayerMakeShip>true</PlayerMakeShip>
+  <PlayerFixMe>false</PlayerFixMe>
+  <DeleteStone>true</DeleteStone>
+  <EcoWithdrawMax>2147483647</EcoWithdrawMax>
+  <DeleteStoneAuto>true</DeleteStoneAuto>
+  <Withdraw>false</Withdraw>
+  <facInfo>true</facInfo>
+  <PlayerEcoPay>true</PlayerEcoPay>
+  <Deposit>false</Deposit>
+  <convertInGravity>false</convertInGravity>
+  <FactionShareDeposit>true</FactionShareDeposit>
+  <IdentityUpdate>false</IdentityUpdate>
+  <Claim>true</Claim>
+  <ClaimOnlyForLeaders>false</ClaimOnlyForLeaders>
+  <ClaimOnlyFactionGrids>false</ClaimOnlyFactionGrids>
+  <ClaimFactionGridsOnlyLeaders>false</ClaimFactionGridsOnlyLeaders>
+  <ClaimPercent>50</ClaimPercent>
+  <FactionsNeutralOnCreation>true</FactionsNeutralOnCreation>
+  <ExcludedFactionTags>SPRT,HELSP,ASSER,IMBER,INCON,SPID</ExcludedFactionTags>
+  <DisableChatEveryoneBlock>false</DisableChatEveryoneBlock>
+  <SendFactionBroadcastsToFactionChat>false</SendFactionBroadcastsToFactionChat>
+  <CooldownInSeconds>600</CooldownInSeconds>
+  <RespawnCooldownInSeconds>1200</RespawnCooldownInSeconds>
+</ConfigFile>

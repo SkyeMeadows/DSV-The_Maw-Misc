@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 5000,
+    "AmountToMineThenDeliverMax": 25000,
+    "OresToPickFrom": [
+      "Ice"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 5,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 5,
+    "ReputationGainOnCompleteMax": 10,
+    "ReputationLossOnAbandon": 15,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.8,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.MiningContractConfig, CrunchEconV3",
+    "AmountToMineThenDeliverMin": 10000,
+    "AmountToMineThenDeliverMax": 45000,
+    "OresToPickFrom": [
+      "Ice"
+    ],
+    "SpawnOreInStation": false,
+    "AmountOfContractsToGenerate": 3,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 5,
+    "ReputationGainOnCompleteMax": 10,
+    "ReputationLossOnAbandon": 15,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.2,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  }
+]

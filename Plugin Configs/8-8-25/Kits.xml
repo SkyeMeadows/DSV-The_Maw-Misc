@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Kits.v1.1.2.xsd">
+  <Kits>
+    <Kit Name="Starter-1">
+      <UseCost>0</UseCost>
+      <UseCooldownMinutes>525600</UseCooldownMinutes>
+      <RequiredPromoteLevel>None</RequiredPromoteLevel>
+      <LpPermission />
+      <RespawnPodWildcards />
+      <Items>
+        <Item>
+          <Id TypeId="Ingot" SubtypeId="Iron" />
+          <Probability>1</Probability>
+          <Amount>28025</Amount>
+        </Item>
+        <Item>
+          <Id TypeId="Ingot" SubtypeId="Silicon" />
+          <Probability>1</Probability>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Id TypeId="Ingot" SubtypeId="Nickel" />
+          <Probability>1</Probability>
+          <Amount>1000</Amount>
+        </Item>
+        <Item>
+          <Id TypeId="Ingot" SubtypeId="Gold" />
+          <Probability>1</Probability>
+          <Amount>800</Amount>
+        </Item>
+      </Items>
+    </Kit>
+    <Kit Name="Starter-2">
+      <UseCost>0</UseCost>
+      <UseCooldownMinutes>525600</UseCooldownMinutes>
+      <RequiredPromoteLevel>None</RequiredPromoteLevel>
+      <LpPermission />
+      <RespawnPodWildcards />
+      <Items>
+        <Item>
+          <Id TypeId="Ingot" SubtypeId="Iron" />
+          <Probability>1</Probability>
+          <Amount>28025</Amount>
+        </Item>
+        <Item>
+          <Id TypeId="Ingot" SubtypeId="Silicon" />
+          <Probability>1</Probability>
+          <Amount>20</Amount>
+        </Item>
+        <Item>
+          <Id TypeId="Ingot" SubtypeId="Nickel" />
+          <Probability>1</Probability>
+          <Amount>1000</Amount>
+        </Item>
+        <Item>
+          <Id TypeId="Ingot" SubtypeId="Gold" />
+          <Probability>1</Probability>
+          <Amount>800</Amount>
+        </Item>
+      </Items>
+    </Kit>
+  </Kits>
+</Config>

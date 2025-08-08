@@ -1,0 +1,34 @@
+[
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.GasContractConfig, CrunchEconV3",
+    "GasSubType": "Oxygen",
+    "AmountInLitresMin": 1000000,
+    "AmountInLitresMax": 2000000,
+    "AmountOfContractsToGenerate": 3,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.7,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  },
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.GasContractConfig, CrunchEconV3",
+    "GasSubType": "Hydrogen",
+    "AmountInLitresMin": 1000000,
+    "AmountInLitresMax": 2000000,
+    "AmountOfContractsToGenerate": 3,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.7,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  }
+]

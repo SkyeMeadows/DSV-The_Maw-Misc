@@ -1,0 +1,62 @@
+[
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.ItemHaulingConfig, CrunchEconV3",
+    "CargoNames": [],
+    "ContractName": "Item Delivery",
+    "ItemsAvailable": [
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Girder",
+        "AmountMin": 10000,
+        "AmountMax": 100000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Construction",
+        "AmountMin": 10000,
+        "AmountMax": 100000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "MetalGrid",
+        "AmountMin": 1000,
+        "AmountMax": 5000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "InteriorPlate",
+        "AmountMin": 10000,
+        "AmountMax": 100000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "SteelPlate",
+        "AmountMin": 10000,
+        "AmountMax": 100000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "GravityGenerator",
+        "AmountMin": 100,
+        "AmountMax": 1000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Thrust",
+        "AmountMin": 100,
+        "AmountMax": 1000
+      }
+    ],
+    "PlaceItemsInTargetStation": false,
+    "AmountOfContractsToGenerate": 5,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.25,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  }
+]

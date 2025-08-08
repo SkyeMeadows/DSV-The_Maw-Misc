@@ -1,0 +1,44 @@
+[
+  {
+    "$type": "CrunchEconV3.PlugAndPlay.Contracts.Configs.ItemHaulingConfig, CrunchEconV3",
+    "CargoNames": [],
+    "ContractName": "Item Delivery",
+    "ItemsAvailable": [
+      {
+        "TypeId": "MyObjectBuilder_Ore",
+        "SubTypeId": "Ice",
+        "AmountMin": 30000,
+        "AmountMax": 100000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Ore",
+        "SubTypeId": "Iron",
+        "AmountMin": 3000,
+        "AmountMax": 10000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Ore",
+        "SubTypeId": "Nickel",
+        "AmountMin": 3000,
+        "AmountMax": 10000
+      },
+      {
+        "TypeId": "MyObjectBuilder_Ore",
+        "SubTypeId": "Silicon",
+        "AmountMin": 3000,
+        "AmountMax": 10000
+      }
+    ],
+    "PlaceItemsInTargetStation": false,
+    "AmountOfContractsToGenerate": 5,
+    "SecondsToComplete": 4800,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 10,
+    "ReputationRequired": 0,
+    "ChanceToAppear": 0.8,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": null
+  }
+]

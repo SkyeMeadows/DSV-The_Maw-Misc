@@ -1,0 +1,33 @@
+{
+  "UsesDefault": false,
+  "UsedTemplate": null,
+  "SubstationGpsStrings": [],
+  "Logics": [
+    {
+      "$type": "CrunchEconV3.PlugAndPlayV2.StationLogics.StoreLogic, CrunchEconV3",
+      "StoreFileName": "Store-Base.json",
+      "IsFirstRun": false,
+      "NextModifierReset": "2025-07-29T14:43:48.9937315-04:00",
+      "NextStoreRefresh": "2025-07-23T08:17:46.5621023-04:00",
+      "Modifier": 0.042994397409723328,
+      "MaximumModifier": 0.15,
+      "Priority": 0,
+      "DaysBetweenModifierResets": 7,
+      "MaintainBalance": true,
+      "SecondsBetweenRefresh": 180
+    }
+  ],
+  "Enabled": true,
+  "LocationGPS": "GPS:Station:-1894756.30283424:-309177.633947949:-2060242.46646584:#FFFFA500:",
+  "FactionTag": "LNTRI",
+  "SecondsBetweenContractRefresh": 1800,
+  "ContractFiles": [
+    "/Contracts/Acquisition.json",
+    "/Contracts/Mining.json"
+  ],
+  "FileName": "Karo_TEST.json",
+  "UseAsDeliveryLocation": true,
+  "StorePriceModifier": 1.0,
+  "StoreQuantityModifier": 1.0,
+  "ContractPriceModifier": 1.0
+}

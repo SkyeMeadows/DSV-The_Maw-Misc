@@ -1,0 +1,112 @@
+[
+  {
+    "$type": "CrunchEconContractModels.Contracts.ItemHaulingContractConfig, MyAssembly",
+    "CargoNames": [],
+    "AmountOfContractsToGenerate": 3,
+    "ContractName": "Item Acquisition",
+    "ChanceToAppear": 0.6,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": ["GPS:Station:-1894756.30283424:-309177.633947949:-2060242.46646584:#FFFFA500:"],
+    "BonusPerKMDistance": 0,
+    "SecondsToComplete": 1800,
+    "ReputationRequired": 0,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 3,
+    "ItemsAvailable": [
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "GravityGenerator",
+        "AmountMin": 200,
+        "AmountMax": 1000,
+		"PricePerItemMin": 5320,
+        "PricePerItemMax": 5500
+      },
+      {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Thrust",
+        "AmountMin": 2000,
+        "AmountMax": 7000,
+		"PricePerItemMin": 4773,
+        "PricePerItemMax": 5000
+      },
+	  {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Superconductor",
+        "AmountMin": 1000,
+        "AmountMax": 6000,
+		"PricePerItemMin": 2928,
+        "PricePerItemMax": 3100
+      },
+	  {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Reactor",
+        "AmountMin": 15000,
+        "AmountMax": 25000,
+		"PricePerItemMin": 335,
+        "PricePerItemMax": 400
+      },
+	  {
+        "TypeId": "MyObjectBuilder_Component",
+        "SubTypeId": "Medical",
+        "AmountMin": 100,
+        "AmountMax": 600,
+		"PricePerItemMin": 2030,
+        "PricePerItemMax": 3000
+      },
+	  {
+        "TypeId": "MyObjectBuilder_Ingot",
+        "SubTypeId": "Silver",
+        "AmountMin": 100000,
+        "AmountMax": 250000,
+		"PricePerItemMin": 60,
+        "PricePerItemMax": 70
+      },
+	  {
+        "TypeId": "MyObjectBuilder_Ingot",
+        "SubTypeId": "Gold",
+        "AmountMin": 50000,
+        "AmountMax": 100000,
+		"PricePerItemMin": 178,
+        "PricePerItemMax": 190
+      }
+    ],
+    "PlaceItemsInTargetStation": false
+  },
+  {
+    "$type": "CrunchEconContractModels.Contracts.ItemHaulingContractConfig, MyAssembly",
+    "CargoNames": [],
+    "AmountOfContractsToGenerate": 1,
+    "ContractName": "Item Acquisition",
+    "ChanceToAppear": 0.1,
+    "CollateralMin": 0,
+    "CollateralMax": 0,
+    "DeliveryGPSes": ["GPS:Station:-1894756.30283424:-309177.633947949:-2060242.46646584:#FFFFA500:"],
+    "BonusPerKMDistance": 0,
+    "SecondsToComplete": 1800,
+    "ReputationRequired": 0,
+    "ReputationGainOnCompleteMin": 1,
+    "ReputationGainOnCompleteMax": 5,
+    "ReputationLossOnAbandon": 3,
+    "ItemsAvailable": [
+	  {
+        "TypeId": "MyObjectBuilder_Ingot",
+        "SubTypeId": "Platinum",
+        "AmountMin": 10000,
+        "AmountMax": 25000,
+		"PricePerItemMin": 11112,
+        "PricePerItemMax": 11500
+      },
+	  {
+        "TypeId": "MyObjectBuilder_Ingot",
+        "SubTypeId": "Uranium",
+        "AmountMin": 10000,
+        "AmountMax": 25000,
+		"PricePerItemMin": 8466,
+        "PricePerItemMax": 9000
+      },
+    ],
+    "PlaceItemsInTargetStation": false
+  },
+]

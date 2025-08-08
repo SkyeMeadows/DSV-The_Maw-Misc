@@ -1,0 +1,178 @@
+{
+  "SellHydrogen": false,
+  "SellOxygn": false,
+  "SellPrefabs": false,
+  "SellingToPlayers": [
+    {
+      "ChanceToAppear": 0.9981599,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "LargeCalibreAmmo",
+      "AmountMin": 50,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.958798766,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "MediumCalibreAmmo",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.494542867,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "LargeRailgunAmmo",
+      "AmountMin": 3,
+      "AmountMax": 15
+    },
+    {
+      "ChanceToAppear": 0.767776549,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "SmallRailgunAmmo",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.379581451,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Explosives",
+      "AmountMin": 10,
+      "AmountMax": 50
+    },
+    {
+      "ChanceToAppear": 0.728059232,
+      "Type": "MyObjectBuilder_Datapad",
+      "Subtype": "Datapad",
+      "AmountMin": 5,
+      "AmountMax": 20
+    },
+    {
+      "ChanceToAppear": 0.465091,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "ElitePistolItem",
+      "AmountMin": 1,
+      "AmountMax": 3
+    },
+    {
+      "ChanceToAppear": 0.6964107,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "ElitePistolMagazine",
+      "AmountMin": 10,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.973762,
+      "Type": "MyObjectBuilder_AmmoMagazine",
+      "Subtype": "PreciseAutomaticRifleGun_Mag_5rd",
+      "AmountMin": 10,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.7111098,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "AngleGrinder3Item",
+      "AmountMin": 5,
+      "AmountMax": 10
+    },
+    {
+      "ChanceToAppear": 0.444053739,
+      "Type": "MyObjectBuilder_PhysicalGunObject",
+      "Subtype": "AngleGrinder4Item",
+      "AmountMin": 1,
+      "AmountMax": 3
+    },
+    {
+      "ChanceToAppear": 0.7426831,
+      "Type": "MyObjectBuilder_ConsumableItem",
+      "Subtype": "Medkit",
+      "AmountMin": 5,
+      "AmountMax": 50
+    }
+  ],
+  "BuyingFromPlayers": [
+    {
+      "ChanceToAppear": 0.466437042,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Construction",
+      "AmountMin": 100,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.966092646,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "MetalGrid",
+      "AmountMin": 125,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.987242162,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "InteriorPlate",
+      "AmountMin": 500,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.345218241,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "SmallTube",
+      "AmountMin": 60,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8041011,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Display",
+      "AmountMin": 20,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.851965964,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "BulletproofGlass",
+      "AmountMin": 200,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.307906181,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "Reactor",
+      "AmountMin": 100,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.740262747,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "RadioCommunication",
+      "AmountMin": 40,
+      "AmountMax": 500
+    },
+    {
+      "ChanceToAppear": 0.308356225,
+      "Type": "MyObjectBuilder_Component",
+      "Subtype": "PowerCell",
+      "AmountMin": 50,
+      "AmountMax": 100
+    },
+    {
+      "ChanceToAppear": 0.9309234,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Magnesium",
+      "AmountMin": 10,
+      "AmountMax": 200
+    },
+    {
+      "ChanceToAppear": 0.7560761,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "Uranium",
+      "AmountMin": 10,
+      "AmountMax": 1000
+    },
+    {
+      "ChanceToAppear": 0.8707871,
+      "Type": "MyObjectBuilder_Ingot",
+      "Subtype": "PrototechScrap",
+      "AmountMin": 10,
+      "AmountMax": 50
+    }
+  ],
+  "PrefabsToSell": {}
+}
